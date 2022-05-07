@@ -8,7 +8,7 @@
 
 ## 簡介
 
-針對2021年臺灣[公投四大議題](https://2021.cec.gov.tw/articleList.html?cate=C19#gsc.tab=0):
+針對[2021年臺灣公投四大議題](https://2021.cec.gov.tw/articleList.html?cate=C19#gsc.tab=0):
 
 1. 您是否同意核四啟封商轉發電？
 2. 你是否同意政府應全面禁止進口含有萊克多巴胺之乙型受體素豬隻之肉品、內臟及其相關產製品？
