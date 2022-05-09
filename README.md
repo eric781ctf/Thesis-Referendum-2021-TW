@@ -19,9 +19,9 @@
 
 ## 資料蒐集
 
-平台: Facebook
+**平台: Facebook**
 
-時間: 2021/4/1~2021/12/18
+**時間: 2021/4/1~2021/12/18**
 
 蒐集到的圖片皆依照"粉專ID"_"TimeStamp"_"數量"的格式儲存在[資料夾]{https://github.com/eric781ctf/Thesis-Referendum-2021-TW/tree/main/Image%20Data}中。
 
