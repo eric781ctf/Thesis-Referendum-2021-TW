@@ -1,6 +1,6 @@
 # Thesis-Referendum-2021-TW
 
-逢甲大學碩士學位
+逢甲大學碩士學位論文
 
 論文題目: Content and Strategy Analysis in Online Image Propaganda Using AI and Vision Recongnition
 
