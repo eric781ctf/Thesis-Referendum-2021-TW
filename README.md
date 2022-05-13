@@ -24,6 +24,6 @@
 **時間: 2021/4/1~2021/12/18**
 
 蒐集到的圖片皆依照 "粉專ID"\_"TimeStamp"\_"數量" 的格式儲存在[資料夾](https://github.com/eric781ctf/Thesis-Referendum-2021-TW/tree/main/Image%20Data)中[^1]。
-
-
 [^1]:因Github對於單個檔案上傳的大小限制，我將資料依據25MB進行拆分壓縮上傳，資料並無先後順序問題。
+
+蒐集的詳細資料以 : "Post ID", "Fanspage ID", "Political", "Post time", "Reaction", "Image_file name" 的欄位方式存在meta_data.csv
